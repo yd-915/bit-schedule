@@ -1,0 +1,16 @@
+export const LANDING = '/';
+export const SIGN_UP = '/signup';
+export const SIGN_IN = '/signin';
+export const HOME = '/home';
+export const ACCOUNT = '/account';
+export const ADMIN = '/admin';
+export const PASSWORD_FORGET = '/pw-forget';
+export const ROOM = '/room';
+export const MEET = '/meet';
+export const CALENDAR = '/calendar';
+export const USERS = '/users';
+export const USER_DETAILS = '/users/:id';
+export const TEAMS = '/teams';
+export const SHOW_TEAMS = '/team';
+export const TEAM = '/showteam';
+export const CALLERROR = '/joinerror';
